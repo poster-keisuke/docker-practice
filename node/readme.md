@@ -23,9 +23,7 @@ node                10.13.0-alpine      e35872f034fd        1 minutes ago       
 
 ### コンテナの作成
 
-`$ docker-compose up -d`
-
--d // デーモン
+`$ docker-compose up -d //-d デーモンとして起動`
 
 ### 状態の確認
 
